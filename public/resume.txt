@@ -1,0 +1,32 @@
+Mary Kate Domingo
+Aspiring IT Student
+
+CONTACT INFORMATION
+Email: marykate.domingo@cvsu.edu.ph
+Location: Philippines
+
+CAREER OBJECTIVE
+My objective is seeking opportunities to apply my technical knowledge, improve my programming skills and gain practical experience in developing useful software applications.
+
+EDUCATION
+Bachelor of Science in Information Technology
+Cavite State University - Tanza Campus
+[Third Year]
+
+TECHNICAL SKILLS
+
+- HTML and CSS
+- JavaScript
+- React
+- Tailwind CSS
+- Basic database management
+
+PROJECTS
+
+- Calculator App
+- To-Do List App
+- E-Portfolio Website
+- WorkTrack
+
+REFERENCES
+Available upon request.
